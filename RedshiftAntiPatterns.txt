@@ -1,0 +1,5 @@
+Pequenos datsets = usar rds em vez
+OLTP = usar rds ou dynamodb
+Dados desestruturados = primeiro ETL com EMR
+BLOB data = armazenar somente referencia do S3 nao o arquivo inteiro
+	

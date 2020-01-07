@@ -1,0 +1,13 @@
+Elastic:
+	Rapidamente Adiciona e remove nós do mesmo tipo
+	Cluster fica fora por alguns minutos
+	Tenta manter as conexoes abertas durante o downtime
+
+Classic:
+	Mudar tipo dos nós ou numero de nós
+	cluster é pronto de horas a dias
+
+Snapshot, restore, resize:
+	Usado para manter o cluster disponivel durante um classico resize
+
+

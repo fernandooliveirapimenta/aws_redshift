@@ -1,0 +1,8 @@
+S3
+DynamoDB
+EMR / EC2
+Data Pipeline
+Database Migration Service
+
+
+

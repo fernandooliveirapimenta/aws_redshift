@@ -1,0 +1,5 @@
+Priorizar pequenas, rapidas pesquisas vs  longas, lentas
+
+Fila de query
+
+via console, CLI ou API
