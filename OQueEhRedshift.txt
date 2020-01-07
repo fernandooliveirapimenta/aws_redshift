@@ -1,0 +1,27 @@
+Totalmente gerenciado, na escala de petabyte data warehouse
+Distribuido.
+
+10 vezes melhor em performance que outros Datawarehouses
+- via machine learning, massivamente pararelo em execucao de pesquisas, banco de dados colunar.
+
+Designado para OLAP nao OLTP
+
+Custo-beneficio
+
+SQL, ODBC, JDBC interfaces
+
+Ecala pra cima ou para baixo sobre demanda
+
+replicacao e backups
+
+Monitoramento via cloudwatch/cloudtrail
+
+
+Caso de Uso:
+Acelerar trabalhos analiticos
+Unificar data warehouse com data lake
+Modernização do data warehouse
+Analize global dos dados de venda
+Analizar impressao de ad e clicks
+aggregar dados de jogos
+Analizar tendencias sociais

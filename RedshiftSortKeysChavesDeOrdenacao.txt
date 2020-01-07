@@ -1,0 +1,19 @@
+linhaas sao armazenadas no disco ordenados baseados na coluna que vc designou como chave de ordenacao (sort key)
+
+Como um indice
+
+Feiro para rapido selects em range
+
+Escolhendo uma chave de ordenacao
+
+Recency? Filtering? Joins?
+
+Single vs compound vs intervaled sort keys
+
+Sort keys: Coluna unica
+
+ex:
+
+Date 	  Genre      Movie
+3/18/2019 Comedia    Monty Python
+3/18/2019 Adventure  Monty Python

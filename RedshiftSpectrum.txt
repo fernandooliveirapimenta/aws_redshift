@@ -1,0 +1,16 @@
+Pesquisar (query)  exabytes de dados não estruturados no s3 sem carregar
+
+Sem limite de concorrencia
+
+Escala horizontal
+
+Separa Storage de recursos computacionais
+
+grande variedades de formatos de dados
+
+suporta Gzip e snapppy  compressão
+
+
+S3 ->  Glue  -> Redshift 
+
+Guarda os dados no s3

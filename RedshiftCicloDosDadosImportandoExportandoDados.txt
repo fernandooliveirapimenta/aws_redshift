@@ -1,0 +1,25 @@
+Comando COPY:
+paralelizado, eficiente.
+do S3, EMR, Dynamodb, remote hosts
+S3 requer um arquivo de manifesto e IAM role
+
+S3 -> Redshift
+EMR -> Redshift
+Dynamodb -> Redshift
+
+Comando UNLOAD:
+de um tabela Redshift para arquivos no S3
+
+comando COPY mais a fundo
+
+Usar COPY para carregar grandes qtd de dados que estao armazenados fora do redshift.
+se os dados ja estao no redshift em outra tabela usar:
+
+"insert into ...select" ou "create table as"
+
+
+DBLINK
+
+conectar redshift com postgresql (RDS ou nao)
+
+Boa maneira para copiar dados syncrono 

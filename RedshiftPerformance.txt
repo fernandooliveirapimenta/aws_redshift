@@ -1,0 +1,3 @@
+Processamento paralelo massivo (MPP)
+Banco de dados colunar
+compressão de coluna

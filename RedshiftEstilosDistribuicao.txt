@@ -1,0 +1,8 @@
+AUTO
+baseado no tamanho do dado
+EVEN
+linha sao distribuidas atraves dos pedacos 
+KEY
+linhas sao distribuidas baseadas em uma coluna
+ALL
+tabela inteira é copiada para cada nó

@@ -1,0 +1,17 @@
+Replicacao de dados no cluster
+Backup no S3
+	Replica para outra regiao async
+Snapshots automatizados
+Falhas nos drives / nodes sao automaticamente substituidos
+
+Escalando Redshift
+
+Vertical e horizontal escala por demanda
+
+Durante escalamento:
+Novo cluster é criado enquanto o antigo ainda nao esta pronto para leitura
+CNAME é trocado para o novo cluster alguns minutos de downtime
+Dados sao movidos paralelamente para os outros compute nodes
+
+
+
